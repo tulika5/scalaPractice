@@ -12,3 +12,12 @@ object Main extends App {
 	{ val name = args(0)
 	println("hello",name)}
 }
+
+/*without extending to app; we use main function as in java as below:
+
+object Foo {
+  def main(args: Array[String]) = {
+    println("Hello, " + args(0))
+  }
+}
+*/
