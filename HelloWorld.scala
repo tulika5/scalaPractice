@@ -21,3 +21,15 @@ object Foo {
   }
 }
 */
+
+/*1. Is scala object oriented or functional programming language?
+Both
+Everything is object e.g. function and integers are objects
+Every function is a value in Scala, that’s simply mean you can use a function anywhere you can use a value.
+*/
+
+/*is scala statically typed?
+Yes
+Advantage: type checking happens at compile time
+Java is also statically typed,  but scala has type inference also :D
+*/
